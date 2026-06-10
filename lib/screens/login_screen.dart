@@ -103,7 +103,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 alignment: Alignment.centerLeft,
                 child: Text(
                   "PASSWORD",
-                  style: TextStyle(color: Colors.grey.shade600, fontSize: 12),
+                  style: TextStyle(color: Colors.grey.shade600, fontSize: 13),
                 ),
               ),
               const SizedBox(height: 6),
