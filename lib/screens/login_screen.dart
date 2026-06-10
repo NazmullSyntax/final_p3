@@ -96,7 +96,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 ),
               ),
 
-              const SizedBox(height: 20),
+              const SizedBox(height: 21),
 
               // 🔑 Password Field
               Align(
